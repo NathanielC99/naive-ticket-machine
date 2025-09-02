@@ -27,6 +27,7 @@ As you compile it says error in class but does not explain further.
 8) The one constructor is TicketMachine, the field is getbalance and getprice, for method it is insertMoney and printTicket.
 9) The constructor stores values and it has the same name as the class.
 10)They are int, Student, and Server.
-11)alive, tutor, and game.
+11)alive,tutor,game.
 12)Student, Server, Person, and Game.
-13)    
+13)It says <identifier> expected and it does not compile. I also don't think that there are other ways to order it.
+14)    
