@@ -12,3 +12,21 @@ It is discussed in chapter 2.
 
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
+
+
+****Answers***
+
+1) After the ticket is printed,the balance goes to zero. 
+2) If you insert to much, it will still just give a balance of zero, if you don't put enough it will also give a balance of zero and give you the ticket with the amount on it. 
+3) The new machine will print a ticket with the different price but it will not change that mcuh from the other machine ticket.
+4) The outer wraper of the Student and LabClass I think are more elaborate.
+5) There is a change when you switch the places of class and public, the green part goes away and there are errors everywhere.
+As you compile it says error in class but does not explain further.
+6) You can leave out the word public.
+7) If the word class is left out then it gives and error. 
+8) The one constructor is TicketMachine, the field is getbalance and getprice, for method it is insertMoney and printTicket.
+9) The constructor stores values and it has the same name as the class.
+10)They are int, Student, and Server.
+11)alive, tutor, and game.
+12)Student, Server, Person, and Game.
+13)    
