@@ -30,4 +30,15 @@ As you compile it says error in class but does not explain further.
 11)alive,tutor,game.
 12)Student, Server, Person, and Game.
 13)It says <identifier> expected and it does not compile. I also don't think that there are other ways to order it.
-14)    
+14)It is necessary since it won't compile or run without it.
+15)public int status() 
+16)Student
+17)There are two parameters, and the types are string and double.
+18)Names of books and prices of books. We can see that they would have a price and a name.
+19)public Pet(String petsName)
+{
+    name=petsName;
+}
+20)The names are different. 
+21)"What is the amount of money stored"
+22)
