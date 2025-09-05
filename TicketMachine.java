@@ -20,6 +20,8 @@ public class TicketMachine
     private int total;
     // Increase score by the value in points
     private int score;
+    // Subract amount from price
+    private int discount;
 
     /**
      * Create a machine that issues tickets of the given price.
@@ -28,7 +30,7 @@ public class TicketMachine
      */
     public TicketMachine(int cost)
     {
-        price = cost;
+        price = price;
         balance = 0;
         total = 0;
     }
@@ -39,6 +41,14 @@ public class TicketMachine
     public void increaseScore(int points)
     {
         score = score + points;   
+    }
+    
+    /**
+     * Reduce price by the given amount.
+     */
+    public void discount(int amount)
+    {
+        discount = price- amount;
     }
     
     /**

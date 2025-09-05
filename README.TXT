@@ -45,4 +45,5 @@ As you compile it says error in class but does not explain further.
 23)When return statment is removed, the error message shows that it is missing it.
 24)One has int for integer and the other has void because it is running a function.
 25)It shows the negative integer that I used for the insert money on the get balance.
-26)
+26)When price changed to = price, the inspect shows nothing different.
+27)It will say " My cat has green eyes"
