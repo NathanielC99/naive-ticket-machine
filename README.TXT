@@ -41,4 +41,8 @@ As you compile it says error in class but does not explain further.
 }
 20)The names are different. 
 21)"What is the amount of money stored"
-22)
+22)When changed to getAmount it still worked, which tells us that the name of accesor method does not need to be the same as the feild associated with it.
+23)When return statment is removed, the error message shows that it is missing it.
+24)One has int for integer and the other has void because it is running a function.
+25)It shows the negative integer that I used for the insert money on the get balance.
+26)
