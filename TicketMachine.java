@@ -22,6 +22,12 @@ public class TicketMachine
     private int score;
     // Subract amount from price
     private int discount;
+    // Please insert the correct amount of money.
+    private int prompt;
+    // The price of the ticket
+    private int showPrice;
+    // The xyz
+    private int xyz;
 
     /**
      * Create a machine that issues tickets of the given price.
@@ -30,11 +36,27 @@ public class TicketMachine
      */
     public TicketMachine(int cost)
     {
-        price = price;
+        price = cost;
         balance = 0;
         total = 0;
     }
 
+    /**
+     * Print prompt
+     */
+    public void prompt()
+    {
+        System.out.println("Please insert the correct amount of money.");
+    }
+    
+    /**
+     * Print showPrice 
+     */
+    public void showPrice()
+    {
+        System.out.println("The price of a ticket is xyz cents."); 
+    }
+    
     /**
      * Increase score by the given number of points.
      */
@@ -51,7 +73,7 @@ public class TicketMachine
         discount = price- amount;
     }
     
-    /**
+    /** 
      * Return the total amount of money collected
      */
     public int getTotal()

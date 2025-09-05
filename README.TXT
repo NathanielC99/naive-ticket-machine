@@ -47,3 +47,6 @@ As you compile it says error in class but does not explain further.
 25)It shows the negative integer that I used for the insert money on the get balance.
 26)When price changed to = price, the inspect shows nothing different.
 27)It will say " My cat has green eyes"
+28)It would give the word print next to cent.
+29)It would will print all of it together.
+30)
