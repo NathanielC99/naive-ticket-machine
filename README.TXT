@@ -49,4 +49,5 @@ As you compile it says error in class but does not explain further.
 27)It will say " My cat has green eyes"
 28)It would give the word print next to cent.
 29)It would will print all of it together.
-30)
+30)They show different prices.
+31)
